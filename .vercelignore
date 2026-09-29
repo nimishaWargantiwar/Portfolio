@@ -1,0 +1,6 @@
+# Vercel ignore file
+node_modules
+.git
+README.md
+GETTING_STARTED.md
+FILES_CREATED.md
